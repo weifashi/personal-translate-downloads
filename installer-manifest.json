@@ -1,0 +1,10 @@
+{
+  "commit": "3a7ebad1af1863068167c20ca1a19405c1f0e938",
+  "runID": "39399673586",
+  "architecture": "arm64",
+  "bundleIdentifier": "local.personaltranslate",
+  "signing": "ad-hoc (not notarized)",
+  "executableSHA256": "fbc0f37d02bf51921c74bb7d3a4a319b28858018483a9b884504af9f471b6106",
+  "diskImage": "PersonalTranslate-arm64.dmg",
+  "diskImageSHA256": "c9227b6bce63bc1c19ac8c60be918b9d6e1e706f5c3ac8850cd3ab43be83d092"
+}
