@@ -1,10 +1,10 @@
 {
-  "commit": "3a7ebad1af1863068167c20ca1a19405c1f0e938",
-  "runID": "39399673586",
+  "commit": "5cd4939d0f19170f84ae799308f7db141bbf28c2",
+  "runID": "39405407227",
   "architecture": "arm64",
   "bundleIdentifier": "local.personaltranslate",
   "signing": "ad-hoc (not notarized)",
-  "executableSHA256": "fbc0f37d02bf51921c74bb7d3a4a319b28858018483a9b884504af9f471b6106",
+  "executableSHA256": "cd0ecbdf5b9e18c70dcb43af06f3c5da1d949c55149485831e063ecef4d67039",
   "diskImage": "PersonalTranslate-arm64.dmg",
-  "diskImageSHA256": "c9227b6bce63bc1c19ac8c60be918b9d6e1e706f5c3ac8850cd3ab43be83d092"
+  "diskImageSHA256": "d2f61750be5b8e4df41c3f6bcee5e9b37388a1c75a6aac50e9519417db842759"
 }
